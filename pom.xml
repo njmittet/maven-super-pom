@@ -14,7 +14,7 @@
         <org.springframework-version>4.0.6.RELEASE</org.springframework-version>
         <org.springframework.security-version>3.2.5.RELEASE</org.springframework.security-version>
         <org.eclipse.jetty-version>9.2.2.v20140723</org.eclipse.jetty-version>
-        <org.apache.cxf-version>3.0.0</org.apache.cxf-version>
+        <org.apache.cxf-version>3.0.1</org.apache.cxf-version>
         <com.fasterxml.jackson-version>2.4.2</com.fasterxml.jackson-version>
     </properties>
 
