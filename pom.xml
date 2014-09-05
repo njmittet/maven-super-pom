@@ -11,7 +11,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <org.springframework-version>4.0.6.RELEASE</org.springframework-version>
+        <org.springframework-version>4.1.0.RELEASE</org.springframework-version>
         <org.springframework.security-version>3.2.5.RELEASE</org.springframework.security-version>
         <org.eclipse.jetty-version>9.2.2.v20140723</org.eclipse.jetty-version>
         <org.apache.cxf-version>3.0.1</org.apache.cxf-version>
