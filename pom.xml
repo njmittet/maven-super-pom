@@ -15,7 +15,7 @@
         <org.springframework.security-version>3.2.5.RELEASE</org.springframework.security-version>
         <org.eclipse.jetty-version>9.2.2.v20140723</org.eclipse.jetty-version>
         <org.apache.cxf-version>3.0.2</org.apache.cxf-version>
-        <com.fasterxml.jackson-version>2.4.3</com.fasterxml.jackson-version>
+        <com.fasterxml.jackson-version>2.5.0</com.fasterxml.jackson-version>
     </properties>
 
     <build>
