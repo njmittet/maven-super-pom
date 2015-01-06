@@ -19,6 +19,7 @@
         <joda-time.version>2.6</joda-time.version>
         <junit.version>4.12</junit.version>
         <mockito-all.version>1.10.8</mockito-all.version>
+        <jcl-over-slf4j.version>1.7.9</jcl-over-slf4j.version>
     </properties>
 
     <build>
@@ -296,7 +297,7 @@
             <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>jcl-over-slf4j</artifactId>
-                <version>1.7.7</version>
+                <version>${jcl-over-slf4j.version}</version>
             </dependency>
             <dependency>
                 <groupId>ch.qos.logback</groupId>
