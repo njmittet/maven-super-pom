@@ -16,6 +16,7 @@
         <org.eclipse.jetty-version>9.2.2.v20140723</org.eclipse.jetty-version>
         <org.apache.cxf-version>3.0.2</org.apache.cxf-version>
         <com.fasterxml.jackson-version>2.5.0</com.fasterxml.jackson-version>
+        <joda-time.version>2.6</joda-time.version>
     </properties>
 
     <build>
@@ -225,7 +226,7 @@
             <dependency>
                 <groupId>joda-time</groupId>
                 <artifactId>joda-time</artifactId>
-                <version>2.5</version>
+                <version>${joda-time.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.google.guava</groupId>
