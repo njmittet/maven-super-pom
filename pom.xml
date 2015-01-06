@@ -17,6 +17,7 @@
         <org.apache.cxf-version>3.0.2</org.apache.cxf-version>
         <com.fasterxml.jackson-version>2.5.0</com.fasterxml.jackson-version>
         <joda-time.version>2.6</joda-time.version>
+        <junit.version>4.12</junit.version>
     </properties>
 
     <build>
@@ -262,7 +263,7 @@
             <dependency>
                 <groupId>junit</groupId>
                 <artifactId>junit</artifactId>
-                <version>4.11</version>
+                <version>${junit.version}</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
