@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
     <version>1.0</version>
     <name>project-super-pom</name>
-    <description>Parent pom for localhost development projects</description>
+    <description>Parent pom.xml for private development projects</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
