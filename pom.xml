@@ -14,7 +14,7 @@
         <org.springframework-version>4.1.6.RELEASE</org.springframework-version>
         <org.eclipse.jetty-version>9.2.2.v20140723</org.eclipse.jetty-version>
         <org.apache.cxf-version>3.0.3</org.apache.cxf-version>
-        <com.fasterxml.jackson-version>2.5.1</com.fasterxml.jackson-version>
+        <com.fasterxml.jackson-version>2.5.2</com.fasterxml.jackson-version>
         <joda-time.version>2.7</joda-time.version>
         <junit.version>4.12</junit.version>
         <mockito-all.version>1.10.8</mockito-all.version>
