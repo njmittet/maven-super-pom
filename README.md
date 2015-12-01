@@ -1,4 +1,4 @@
 project-super-pom
 =================
 
-Top-level and common pom.xml for java projects
+Common pom.xml for java projects
