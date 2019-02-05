@@ -1,4 +1,4 @@
-project-super-pom
+mvn-super-pom
 =================
 
-Common pom.xml for java projects
+Maven parent pom.xml holding common dependency versions and plugin configuration for Java projects.
